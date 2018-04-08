@@ -1,2 +1,1 @@
-Node.js module
-Censors certain words.
+Node.js module that censors certain words.
